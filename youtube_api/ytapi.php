@@ -17,7 +17,8 @@
             background-color:lightgray;
         }
         div {
-
+            border:white 1px solid;
+            border-radius:7px;
         }
     </style>
 </body>
